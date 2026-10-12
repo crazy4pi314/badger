@@ -69,6 +69,11 @@ connected badge and copy files or apps.
 
 ## Creating a 2026 app
 
+[`Fork & Flora`](./badge/apps/fork_flora/README.md) is an offline garden
+prototype with deterministic plant art and a paste-and-run workflow for the
+current Tufty browser simulator. Its local sample-seed inbox is testable there;
+real IR trading is not yet implemented.
+
 Apps are directories under `badge/apps/`:
 
 ```text
